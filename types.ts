@@ -1,0 +1,1 @@
+export type InputMode = "keyboard-dual" | "keyboard-single" | "mouse-dual" | "mouse-single";
